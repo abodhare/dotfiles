@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/home/oga_tatsumi/projects/JsonPP/src'
+let g:netrw_dirhist_5='/home/oga_tatsumi/projects/JsonPP'
+let g:netrw_dirhist_4='/home/oga_tatsumi/projects/JsonPP/app'
+let g:netrw_dirhist_3='/home/oga_tatsumi/projects/JsonPP'
+let g:netrw_dirhist_2='/home/oga_tatsumi/projects/ChordP2P/src'
+let g:netrw_dirhist_1='/home/oga_tatsumi/projects/ChordP2P'
